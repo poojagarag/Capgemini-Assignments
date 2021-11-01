@@ -24,7 +24,7 @@ package Bank;
 
         }
     }
-    class MainClass90
+    class MainClass
     {
         public static void main(String args[]){
 
