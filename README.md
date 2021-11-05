@@ -1,1 +1,1 @@
-# Capgemini-Assignments
+# Assignments
