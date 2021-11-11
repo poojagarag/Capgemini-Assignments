@@ -1,6 +1,5 @@
 package AverageScore;
 import java.util.Scanner;
-
 public class AverageScore {
 
         public static void main(String[] args) {
@@ -10,6 +9,7 @@ public class AverageScore {
             System.out.println("Enter Marks for 3 students");
             for (int i = 0; i < 3; i++)
                 s[i] = new Student();
+
 
         }
 
